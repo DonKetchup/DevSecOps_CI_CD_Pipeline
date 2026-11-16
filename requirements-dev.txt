@@ -1,0 +1,4 @@
+#Marco de Pruebas
+pytest==9.2.0
+#Cliente hhtp
+httpx2==2.16.2

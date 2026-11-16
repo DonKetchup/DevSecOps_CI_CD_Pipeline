@@ -1,0 +1,4 @@
+#Framework para las APIS
+fastapi==0.163.1
+#Servidor WEB
+uvicorn==0.54.0
