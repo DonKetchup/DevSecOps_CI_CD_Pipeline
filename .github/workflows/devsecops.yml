@@ -24,8 +24,8 @@ jobs:
 
   #Pruebas unitarias con Pytest
   test:
-  name: Unit Test (Pystest)
-  runs-on: ubuntu-lastest
+  name: Unit Tests (Pytest)
+  runs-on: ubuntu-latest
   steps:
     - name: Checkout repository
       uses: actions/checkout@v4
