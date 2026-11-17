@@ -6,3 +6,6 @@ __pycache__/
 
 #Cache de los test
 .pytest_cache/
+
+coverage.xml
+.coverage
