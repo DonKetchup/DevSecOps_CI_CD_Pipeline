@@ -1,4 +1,7 @@
 #Marco de Pruebas
 pytest==9.2.0
-#Cliente hhtp
+
+#Cliente http
 httpx2==2.16.2
+
+pytest-cov==5.0.0
