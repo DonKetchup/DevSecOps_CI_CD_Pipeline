@@ -65,7 +65,7 @@ jobs:
           name: coverage-report
         
       - name: SonarCloud Scan
-        uses: SonarSource/sonarqube-scan-action@e805d875275f728fac1885b413934be6d7c63f65> # v4
+        uses: SonarSource/sonarqube-scan-action@e805d875275f728fac1885b413934be6d7c63f65 # v4
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
         with:
